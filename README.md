@@ -9,4 +9,7 @@ FY 2020 Annual Determination of Average Cost of Incarceration Fee Report.
 The user will be prompted for inmate and time(day) quantities.
 
 Developer: Angela D. Tackett   Class: CMIS102    Date: May 27, 2022
- Would you like some people incarcerated? There's a cost. $$
+ 
+ Would you like some people incarcerated? 
+ 
+ There's a cost. $$
